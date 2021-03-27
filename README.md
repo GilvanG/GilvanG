@@ -22,7 +22,6 @@ const aboutMe = {
    status: ["One point makes a difference"],
 };
 ```
-</br>
 
 ### 📱 Contate-me Com 📱
 [<img align="left" alt="GilvanG | GitHub" width="22px" src="https://raw.githubusercontent.com/GilvanG/GilvanG/main/Icons/GitHub.png" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%);"/>][github]
