@@ -30,8 +30,9 @@ const aboutMe = {
 [<img align="left" alt="GilvanG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" alt="GilvanG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
 
-</br>
+</br></br>
 ### 🖥️ Alguns Dados 💻
+</br>
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=gilvang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
