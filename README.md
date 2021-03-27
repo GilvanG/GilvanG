@@ -32,7 +32,8 @@ const aboutMe = {
 
 </br>
 ### 🖥️ Alguns Dados 💻
-![GilvanG's github stats](https://github-readme-stats.vercel.app/api?username=gilvang&show_icons=true&title_color=fff&icon_color=79acff&text_color=9f9f9f&bg_color=151515)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=gilvang&show_icons=true&title_color=fff&icon_color=79acff&text_color=9f9f9f&bg_color=151515)
 
 ---
 [github]: https://github.com/GilvanG/
