@@ -24,7 +24,7 @@ const aboutMe = {
 ```
 </br></br>
 
-###📱 Conecte-me Com 📱
+### 📱 Conecte-me Com 📱
 [<img align="left" alt="GilvanG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
 [<img align="left" alt="GilvanG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GilvanG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
