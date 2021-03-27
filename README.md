@@ -25,15 +25,10 @@ const aboutMe = {
 </br>
 
 ### 📱 Conecte-me Com 📱
-::if ctx.theme == “dark”
-[<img align="left" alt="GilvanG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(100%) invert(100%); "/>][github]
-::else
-[<img align="left" alt="GilvanG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
-
-[<img align="left" alt="GilvanG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GilvanG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" alt="GilvanG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
-
+[<img align="left" alt="GilvanG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%)";/>][github]
+[<img align="left" alt="GilvanG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%);"/>][linkedin]
+[<img align="left" alt="GilvanG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%);"/>][instagram]
+[<img align="left" alt="GilvanG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(10%) invert(10%);"/>][telegram]
 <br />
 
 ### 🖥️ Alguns Dados 💻
