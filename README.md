@@ -24,15 +24,15 @@ const aboutMe = {
 ```
 </br></br>
 
-### 📱 Conecte-me Com 📱
+<h3>📱 Conecte-me Com 📱</h3>
 [<img align="left" alt="GilvanG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
 [<img align="left" alt="GilvanG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GilvanG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" alt="GilvanG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
 
 </br>
-### 🖥️ Alguns Dados 💻
-<br>
+<h3>🖥️ Alguns Dados 💻</<h3>
+</br>
 ![](https://github-readme-stats.vercel.app/api?username=gilvang&show_icons=true&title_color=fff&icon_color=79acff&text_color=9f9f9f&bg_color=151515)
 
 ---
