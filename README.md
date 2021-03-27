@@ -22,10 +22,14 @@ const aboutMe = {
    status: ["One point makes a difference"],
 };
 ```
-</br></br>
+</br>
 
 ### 📱 Conecte-me Com 📱
+::if ctx.theme == “dark”
+[<img align="left" alt="GilvanG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" style="filter: opacity(50%) drop-shadow(1px 1px 1px gray) contrast(100%) invert(100%); "/>][github]
+::else
 [<img align="left" alt="GilvanG | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
+
 [<img align="left" alt="GilvanG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GilvanG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" alt="GilvanG | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />][telegram]
@@ -33,7 +37,7 @@ const aboutMe = {
 <br />
 
 ### 🖥️ Alguns Dados 💻
-![](https://github-readme-stats.vercel.app/api?username=gilvang&show_icons=true&title_color=fff&icon_color=79acff&text_color=9f9f9f&bg_color=151515)
+![GilvanG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilvang&show_icons=true&title_color=fff&icon_color=79acff&text_color=9f9f9f&bg_color=151515)
 
 ---
 [github]: https://github.com/GilvanG/
